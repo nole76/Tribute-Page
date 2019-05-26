@@ -1,0 +1,59 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  min-width: 260px;
+}
+#main {
+  padding: 0px;
+  border: 2px solid;
+  border-radius: 18px;
+  background: yellow;
+}
+#title {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 20px;
+}
+#img-caption {
+  font-weight: bold;
+  margin: 15px 15px 35px 15px;
+  font-style: italic;
+  font-size: 19px;
+}
+
+#image {
+  border: 2px solid;
+  border-radius: 5px;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#tribute-info {
+  text-align: center;
+  margin: 50px 25px 50px;
+  border: 1px solid black;
+  border-radius: 18px;
+  background-color: #ffa600;
+}
+
+#headline {
+  margin-top: 70px;
+  font-size: 35px;
+  font-weight: bold;
+}
+li {
+  text-align: justify;
+  font-size: 20px;
+  color: black;
+  padding: 5px 15px;
+}
+#biography {
+  text-align: justify;
+  font-size: 20px;
+  padding: 10px;
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #ffa500;
+}
